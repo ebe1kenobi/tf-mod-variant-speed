@@ -719,6 +719,8 @@
     <SubTexture name="variants/superSeekingArrows" x="1956" y="1034" width="14" height="14"/>
     <SubTexture name="variants/symmetricalTreasure" x="1972" y="1034" width="14" height="14"/>
     <SubTexture name="variants/teamRevive" x="1988" y="1034" width="14" height="14"/>
+    <SubTexture name="variants/ghost" x="1889" y="1092" width="14" height="14"/>
+    <SubTexture name="variants/ghostRandom" x="1889" y="1092" width="14" height="14"/>
     <SubTexture name="variants/tournamentRules1v1" x="2004" y="1034" width="14" height="14"/>
     <SubTexture name="variants/tournamentRules2v2" x="2020" y="1034" width="14" height="14"/>
     <SubTexture name="variants/tournamentRulesFFA" x="1908" y="1050" width="14" height="14"/>

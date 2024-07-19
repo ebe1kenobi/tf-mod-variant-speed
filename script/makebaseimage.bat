@@ -1,3 +1,9 @@
+@echo off
+
+echo =================================
+echo =       MAKE UNSEALED EXE       =
+echo =================================
+
 < NUL call config.bat
 
 cd %BUILD_PATH%%

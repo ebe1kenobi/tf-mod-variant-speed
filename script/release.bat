@@ -1,3 +1,9 @@
+@echo off
+
+echo ================================
+echo =       BUILD RELEASE          =
+echo ================================
+
 < NUL call config.bat
 
 echo %RELEASE_PATH%
