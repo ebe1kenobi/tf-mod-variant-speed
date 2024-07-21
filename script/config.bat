@@ -1,4 +1,4 @@
-set REPO_PATH=D:\__dev\code\tf-mod-variant-speed-version\
+set REPO_PATH=D:\__dev\code\tf-mod-variant-speed\
 set BUILD_PATH=%REPO_PATH%TowerfallModVariantSpeed\bin\PatchWindows\
 set RELEASE_PATH=%REPO_PATH%release\
 set SCRIPT_PATH=%REPO_PATH%script\
