@@ -1,3 +1,5 @@
+**Port to fortrise here https://github.com/ebe1kenobi/tf-mod-fortrise-variants-speed**
+
 See compil and doc at https://github.com/ebe1kenobi/towerfall-mod-kenobi
 
 # Variant speed mod
